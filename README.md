@@ -62,7 +62,7 @@ DC Motors
 
 ## Project Image
 
-![Robot Car](images/robot_car.jpg)
+![Robot Car](IMG_0697.PNG)
 
 ## Future Improvements
 
